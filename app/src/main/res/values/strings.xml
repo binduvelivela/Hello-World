@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Hello World</string>
+    <string name="name">Bindu Velivela</string>
+    <string name="studentID">200519571</string>
 </resources>
